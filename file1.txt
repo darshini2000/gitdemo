@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi this is darshhdfhweini
+=======
+hi this is di
+>>>>>>> darshu
 bsdfiwebuuieujqweuqe
